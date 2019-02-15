@@ -3,5 +3,5 @@ https://college.cengage.com/mathematics/brase/understandable_statistics/7e/stude
 
 The dataset contain :</br>
 X - annual franchise fee</br>
-Y - start-up cost for a pizza franchise</br?
+Y - start-up cost for a pizza franchise</br>
 
